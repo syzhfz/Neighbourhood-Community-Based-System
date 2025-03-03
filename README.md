@@ -2,6 +2,8 @@
 
 This project is a **Neighbourhood Community System** to help residents and community leaders stay connected and share important information. It makes it easier for everyone to know what’s happening in the neighbourhood, report problems, and join events.
 
+- This system are using Malay for the language - 
+
 ## 📌 About This Project
 This system works like a **small community website**. People can:
 - Read announcements from community leaders.
